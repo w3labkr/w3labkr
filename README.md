@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img height="32" width="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/vscode-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img height="32" width="32" src="" />
 </p>
 
 ### Statistics
