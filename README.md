@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=w3labkr&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w3labkr)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=w3labkr&count_private=true&show_icons=true&locale=en" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w3labkr&show_icons=true&locale=en&layout=compact" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=w3labkr" alt="">
