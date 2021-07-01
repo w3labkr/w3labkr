@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **w3labkr/w3labkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages and Tools
+
+
+## Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=w3labkr&count_private=true&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
